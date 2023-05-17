@@ -28,9 +28,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Desktop-Portfolio <a name="about-project"></a>
+# 📖 Bootstrap project <a name="about-project"></a>
 
-**Desktop-Portfolio** is a simple project. It is the first project created as part of Microverse curriculum.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,6 +37,7 @@
 
 > HTML5
 > CSS3
+> Bootstrap
 
 ### Key Features <a name="key-features"></a>
 
